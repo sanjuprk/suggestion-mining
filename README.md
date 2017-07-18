@@ -8,3 +8,5 @@ Entire implementation is done using [fastText](https://github.com/facebookresear
 - Implement in keras using LSTM.
 - Perform Suggestion clustering and then Summarization.
 
+### License
+`MIT License, Copyright (c) 2017 Sanju Prabhath Reddy`
